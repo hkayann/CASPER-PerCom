@@ -23,8 +23,12 @@ The cells starts with `%%time` are expected to take longer running times dependi
 
 We run this experiment on a data science workstation with **NVIDIA RTX A6000**.
 
-Please install the other required libraries given in below cell.
+We provide a conda environment to test the work. 
 
-Key versions to match:
-* Python version: 3.9.12
-* TensorFlow version: 2.9.1
+Please check the following guide to install `conda`: https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html
+
+After installing `conda`, create our environment via (set the path accordingly):
+
+`conda env create -f environment.yml -p /home/user/anaconda3/envs/env_name`
+
+Then follow the `casper.ipynb` to recreate the work.
