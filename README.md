@@ -3,7 +3,7 @@ This repo contains the work of the demo paper presented in **The 21st Internatio
 
 Initial steps:
 
-1. Download the dataset from IEEEDataPort: https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms
+1. Download the dataset from IEEE DataPort: https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms
 2. Extract the `casper.zip` file.
 
 The dataset contains four files:
@@ -29,6 +29,6 @@ Please check the following guide to install `conda`: https://docs.conda.io/proje
 
 After installing `conda`, create our environment via (set the path accordingly):
 
-`conda env create -f environment.yml -p /home/user/anaconda3/envs/env_name`
+`conda env create -f environment.yml -p /home/user/miniconda3/envs/env_name`
 
 Then follow the `casper.ipynb` to recreate the work.
