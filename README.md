@@ -1,6 +1,8 @@
 # CASPER-PerCom
 This repo contains the work of the demo paper presented in **The 21st International Conference on Pervasive Computing and Communications (PerCom 2023)**.
 
+The demo video is available here: https://iotgarage.net/projects/demos/HakanPerCom2023Demo
+
 Initial steps:
 
 1. Download the dataset from IEEE DataPort: https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms
