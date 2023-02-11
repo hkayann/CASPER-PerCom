@@ -5,8 +5,10 @@ The demo video is available here: https://iotgarage.net/projects/demos/HakanPerC
 
 Initial steps:
 
-1. Download the dataset from IEEE DataPort: https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms
-2. Extract the `casper.zip` file.
+1. Download the dataset from Kaggle or IEEEDataPort: 
+Link for the Kaggle: https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-anomaly-detection
+Link for the IEEEDataPort: https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms
+2. Extract the `zip` file.
 
 The dataset contains four files:
     * A .csv file that consists of accelerometer, gyroscope, and magnetometer data of an arm that accomplishes a repetitive task, captured via Nicla Sense ME.
