@@ -5,8 +5,10 @@ The demo video is available here: https://iotgarage.net/projects/demos/HakanPerC
 
 Initial steps:
 
-1. Download the dataset from Kaggle or IEEEDataPort: 
+1. Download the dataset from Kaggle or IEEEDataPort:
+
     1.1 Link for the Kaggle: https://www.kaggle.com/datasets/hkayan/industrial-robotic-arm-anomaly-detection
+    
     1.2 Link for the IEEEDataPort: https://ieee-dataport.org/documents/casper-context-aware-anomaly-detection-system-industrial-robotic-arms
 2. Extract the `zip` file.
 
