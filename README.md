@@ -38,3 +38,7 @@ After installing `conda`, create our environment via (set the path accordingly):
 `conda env create -f environment.yml -p /home/user/miniconda3/envs/env_name`
 
 Then follow the `casper.ipynb` to recreate the work.
+
+## Possible solutions to bugs/conflicts
+
+In case of a related error downgrade `black==22.12.1.dev44+g196b1f3` to `black==22.12.0`.
